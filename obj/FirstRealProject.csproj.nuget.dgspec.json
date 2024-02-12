@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {}
+    "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {
+    "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
+        "projectUniqueName": "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
         "projectName": "FirstRealProject",
-        "projectPath": "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
+        "projectPath": "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\FirstRealProject\\obj\\",
+        "outputPath": "c:\\Users\\hp\\FirstRealProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,38 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "microsoft.entityframeworkcore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "microsoft.entityframeworkcore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

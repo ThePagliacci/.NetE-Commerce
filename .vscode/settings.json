@@ -1,0 +1,4 @@
+{
+  "nuget.autoOpenOutputWindowOnRestore": "on",
+  "csharp.debug.symbolOptions.searchNuGetOrgSymbolServer": true
+}
