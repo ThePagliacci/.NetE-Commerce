@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thY7615On885lnXvxvlCTHjqhhhbG8tXLwDk6qXa2ZO3PBP7UkB5xJKyfqc4AA0rkaIVwNYf+L1fAAk/cIa0YQ==",
+  "dgSpecHash": "UPDHbdHn1Kac0YEOxAn+/z2E+7EhbfbsLHz5yOtElnsgTaEP7G4ShBaZeOSUH0dZwEnQ5Eg0mdOaW6G6oDPv1w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
+  "projectFilePath": "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

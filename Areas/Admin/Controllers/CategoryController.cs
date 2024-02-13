@@ -2,11 +2,14 @@ using System.Data.Common;
 using FirstRealProject.Data;
 using FirstRealProject.Models;
 using FirstRealProject.Repository.IRepository;
+using FirstRealProject.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FirstRealProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController: Controller
     {
         private readonly IUnitOfWork _unitOfWork;

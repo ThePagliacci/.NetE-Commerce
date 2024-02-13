@@ -3,7 +3,9 @@ using System.Security.Principal;
 using FirstRealProject.Data;
 using FirstRealProject.Models;
 using FirstRealProject.Repository.IRepository;
+using FirstRealProject.Utility;
 using FirstRealProject.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.DotNet.Scaffolding.Shared.Messaging;
@@ -11,6 +13,7 @@ using Microsoft.DotNet.Scaffolding.Shared.Messaging;
 namespace FirstRealProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    //[Authorize(Roles = SD.Role_Admin)]
     public class ProductController: Controller
     {
         private readonly IUnitOfWork _unitOfWork;

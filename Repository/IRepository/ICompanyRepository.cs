@@ -4,14 +4,12 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using FirstRealProject.Models;
 
 namespace FirstRealProject.Repository.IRepository
 {
-    public interface IUnitOfWork
+    public interface ICompanyRepository: IRepository<Company>
     {
-        ICategoryRepository Category {get;}
-        IProductRepository Product {get;}
-        ICompanyRepository Company {get;}
-        void Save();
+        void Update(Company obj);
     }
 }

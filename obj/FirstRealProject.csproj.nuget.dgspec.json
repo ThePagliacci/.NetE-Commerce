@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {}
+    "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {
+    "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
         "projectName": "FirstRealProject",
-        "projectPath": "c:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
+        "projectPath": "C:\\Users\\hp\\FirstRealProject\\FirstRealProject.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hp\\FirstRealProject\\obj\\",
+        "outputPath": "C:\\Users\\hp\\FirstRealProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
