@@ -260,3 +260,6 @@ C:\Users\hp\FirstRealProject\obj\Debug\net8.0\refint\FirstRealProject.dll
 C:\Users\hp\FirstRealProject\obj\Debug\net8.0\FirstRealProject.pdb
 C:\Users\hp\FirstRealProject\obj\Debug\net8.0\FirstRealProject.genruntimeconfig.cache
 C:\Users\hp\FirstRealProject\obj\Debug\net8.0\ref\FirstRealProject.dll
+C:\Users\hp\FirstRealProject\bin\Debug\net8.0\RestSharp.dll
+C:\Users\hp\FirstRealProject\bin\Debug\net8.0\Stripe.dll
+C:\Users\hp\FirstRealProject\bin\Debug\net8.0\Stripe.net.dll

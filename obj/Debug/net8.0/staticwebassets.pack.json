@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\hp\\FirstRealProject\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\hp\\FirstRealProject\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\hp\\FirstRealProject\\wwwroot\\images\\product\\31db90e0-b8b4-4d5d-820d-7971099b57a9.png",
       "PackagePath": "staticwebassets\\images\\product\\31db90e0-b8b4-4d5d-820d-7971099b57a9.png"
     },
