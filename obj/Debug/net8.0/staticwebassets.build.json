@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "xT8/Ugv/sdnllPpVzst34zmUKxU2s5Tq769AF/XH+mY=",
+=======
+  "Hash": "Z/380w9aisoCsdd9m3xW9tgFScl0nGiQC9ASECrXaqM=",
+>>>>>>> 1bbd23ababc7eae76787f13d3269be389ca07574
   "Source": "FirstRealProject",
   "BasePath": "_content/FirstRealProject",
   "Mode": "Default",
