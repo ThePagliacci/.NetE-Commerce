@@ -69,6 +69,9 @@ C:\Users\hp\FirstRealProject\bin\Debug\net8.0\NuGet.Packaging.dll
 C:\Users\hp\FirstRealProject\bin\Debug\net8.0\NuGet.ProjectModel.dll
 C:\Users\hp\FirstRealProject\bin\Debug\net8.0\NuGet.Protocol.dll
 C:\Users\hp\FirstRealProject\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\hp\FirstRealProject\bin\Debug\net8.0\RestSharp.dll
+C:\Users\hp\FirstRealProject\bin\Debug\net8.0\Stripe.dll
+C:\Users\hp\FirstRealProject\bin\Debug\net8.0\Stripe.net.dll
 C:\Users\hp\FirstRealProject\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\hp\FirstRealProject\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\hp\FirstRealProject\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -260,6 +263,3 @@ C:\Users\hp\FirstRealProject\obj\Debug\net8.0\refint\FirstRealProject.dll
 C:\Users\hp\FirstRealProject\obj\Debug\net8.0\FirstRealProject.pdb
 C:\Users\hp\FirstRealProject\obj\Debug\net8.0\FirstRealProject.genruntimeconfig.cache
 C:\Users\hp\FirstRealProject\obj\Debug\net8.0\ref\FirstRealProject.dll
-C:\Users\hp\FirstRealProject\bin\Debug\net8.0\RestSharp.dll
-C:\Users\hp\FirstRealProject\bin\Debug\net8.0\Stripe.dll
-C:\Users\hp\FirstRealProject\bin\Debug\net8.0\Stripe.net.dll
